@@ -10,7 +10,7 @@ This tool aims to create a safe space for users to discuss their mental well-bei
 - **Personalized Greeting**: The chatbot addresses users by their names.
 - **Sentiment Analysis**: Tracks and analyzes user sentiment using Hugging Face's sentiment analysis model.
 - **Mood & Question Tracking**: Saves user moods and previous questions to a CSV file, allowing for mood continuity across sessions.
-- **Prompt Engineered & Extra Supportive Responses**: Responds with motivational and mood-boosting messages based on detected sentiment and using prompt engineering to question the model and uses extra hardcoded sentiment suport.
+- **Supportive Responses**: Responds with motivational and mood-boosting messages based on detected sentiment and using prompt engineering and sentiment analysis.
 - **Pre-defined Q&A**: The chatbot refers to a pre-existing CSV-based dataset of questions and answers (`qa_dataset.csv`) to offer immediate responses to commonly asked questions.
 
 
