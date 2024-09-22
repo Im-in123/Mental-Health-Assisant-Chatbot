@@ -22,16 +22,6 @@ This tool aims to create a safe space for users to discuss their mental well-bei
 - Gradio (for user interface)
 - pandas (for CSV management)
 
-### Setup Instructions
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-repository-url.git
-    ```
-
-2. Open the project in Google Colab or run it locally.
-
-
-3. Run the main mental-health-assistant-chatbot.ipynb notebook or script to start the chatbot interface.
 
 ## Project Structure
 - `main.ipynb`: The main Google Colab notebook containing all code for the chatbot.
@@ -45,4 +35,10 @@ This tool aims to create a safe space for users to discuss their mental well-bei
  
 ## Colab Notebook Link
 The Google Colab notebook can be found [here](https://colab.research.google.com/drive/1Xym0qJZy3jAIihA4DKCPWM3yZEg5lZg2?usp=sharing).
+
+### Setup Instructions
+
+1. Open the notebook link in Google Colab or run it locally.
+
+2. Run the main mental-health-assistant-chatbot.ipynb notebook or script to start the chatbot interface.
 
